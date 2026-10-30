@@ -1,3 +1,7 @@
+# فارسی (persian)
+
+[readme in farsy فارسی](README_FA.md)
+
 # ip2location-cli 🚀
 
 `ip2location-cli` is a lightweight, professional, and zero-barrier Bash CLI tool designed for developers, network engineers, and system administrators. It performs instant IP geolocation, ISP lookup, and security/fraud detection (such as VPN/proxy detection) directly from your terminal using the keyless IP2Location.io API.
